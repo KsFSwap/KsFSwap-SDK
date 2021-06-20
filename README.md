@@ -1,4 +1,4 @@
-# KucoinSwap SDK
+# KsFSwap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/KucoinSwap/KucoinSwap-sdk/workflows/CI/badge.svg)](https://github.com/KucoinSwap/KucoinSwap-sdk)
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/KucoinSwap/KucoinSwap-sdk.git
+git clone https://github.com/KsFSwap/KsFSwap-sdk.git
 ```
 
-Move into the KucoinSwap-sdk working directory
+Move into the KsFSwap-sdk working directory
 
 ```sh
-cd KucoinSwap-sdk/
+cd KsFSwap-sdk/
 ```
 
 Install dependencies
