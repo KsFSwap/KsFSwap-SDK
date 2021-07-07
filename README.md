@@ -1,5 +1,4 @@
-# KsFSwap Finance SDK
-
+![Ksfperiphery](https://github.com/KsFSwap/KsFswap-SDK/blob/master/KsFswapSDK.png) 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/KsFSwap/ksfswap-sdk/workflows/CI/badge.svg)](https://github.com/KsFSwap/ksfswap-sdk)
 [![npm version](https://img.shields.io/npm/v/ksfswapsdk/latest.svg)](https://www.npmjs.com/KsFSwap/ksfswapsdk/v/latest)
